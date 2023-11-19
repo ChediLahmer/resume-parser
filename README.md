@@ -43,5 +43,6 @@ This project showcases the synergy of frontend and backend technologies, providi
 ![Screenshot_1](https://github.com/ChediLahmer/resume-parser/assets/131680831/af1629b2-45b2-4c5e-8164-64e4b9604afd)
 ![Screenshot_2](https://github.com/ChediLahmer/resume-parser/assets/131680831/d66bd13b-5cd0-4b7c-b5ac-36eea591626b)
 ![Screenshot_3](https://github.com/ChediLahmer/resume-parser/assets/131680831/b668fbe5-0f5f-47ba-88cf-47926b8c0573)
-
+SpringBoot initializer : 
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.1.5&packaging=jar&jvmVersion=21&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&dependencies=lombok,web,data-mongodb
 # configure ports install packages in requirements.txt and run a mongoDB docker container
