@@ -1,7 +1,7 @@
 # resume-parser
 ## dont forget to change ports install packages in requirements.txt and to run a mongoDB docker container
 
-###Project Description: Resume Parser with Flask, React, Spring Boot, and MongoDB
+### Project Description: Resume Parser with Flask, React, Spring Boot, and MongoDB
 
 In this comprehensive project, we developed a robust and versatile resume parser that seamlessly integrates various technologies to enhance the efficiency of resume handling. The system comprises a React-based front end for a user-friendly interface, a Flask backend for parsing resumes, and a Spring Boot application connected to MongoDB for secure and scalable data storage.
 
