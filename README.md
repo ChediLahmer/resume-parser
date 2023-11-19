@@ -7,26 +7,31 @@ In this comprehensive project, we developed a robust and versatile resume parser
 
 Key Features:
 
-React Front End:
+## React Front End:
 
 The user interface is built using React, offering a modern and responsive design for an intuitive user experience.
 Users can easily upload their resumes and interact with the system through a dynamic and engaging web interface.
-Flask Backend:
+
+## Flask Backend:
 
 The parsing engine is implemented using Flask, enabling the extraction of essential information from resumes in various formats (PDF, Word, etc.).
 Advanced parsing algorithms ensure accurate extraction of key details such as personal information, skills, education, and work experience.
-Spring Boot and MongoDB Database:
+
+## Spring Boot and MongoDB Database:
 
 The backend is powered by a Spring Boot application, providing a robust foundation for handling business logic and database operations.
 MongoDB, a NoSQL database, is utilized to store and manage parsed resume data. This allows for flexibility in handling diverse resume structures and accommodating future enhancements.
-End-to-End Integration:
+
+##  End-to-End Integration:
 
 The seamless integration between the React front end and Flask backend ensures a smooth flow of data, providing users with real-time feedback during the parsing process.
 MongoDB stores parsed resume data securely, allowing for easy retrieval and analysis.
-Scalability and Maintainability:
+
+## Scalability and Maintainability:
 
 The use of industry-standard technologies like React, Flask, Spring Boot, and MongoDB ensures scalability to accommodate a growing user base and maintainability for future updates and improvements.
-User Authentication and Security:
+
+## User Authentication and Security:
 
 User authentication features add a layer of security, ensuring that only authorized users can access and manage their parsed resume data.
 Security best practices are followed to protect sensitive user information and prevent unauthorized access.
